@@ -1,0 +1,1 @@
+Learned version control in Git and Github from the terminal. I had experience creating repositories in Github, but not pushing them directly from VS Code.
